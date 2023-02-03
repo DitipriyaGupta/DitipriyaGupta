@@ -1,5 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Ditipriya Gupta</h1>
-<h3 align="center">A passionate Software Engineering Undergrad from Kolkata, 🇮🇳 Currently in the junior year of my B.Tech in Computer Science & Engineering from University of Engineering & Management, Kolkata</h3>
-
-
+<h1 align="center">Hello Devs 👋, It's Ditipriya Gupta here !</h1>
+<h3 align="center">A passionate Software Engineering Undergrad from Kolkata, 🇮🇳</h3>
+<h3 align="center">Currently in 4th year of my B.Tech in Computer Science & Engineering from University of Engineering & Management, Kolkata.</h3>
