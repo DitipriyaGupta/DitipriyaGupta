@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 A passionate Software Engineering Undergrad from Kolkata, 🇮🇳
+Currently in the junior year of my B.Tech in Computer Science & Engineering from University of Engineering & Management, Kolkata
 
 <!--
 **DitipriyaGupta/DitipriyaGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
