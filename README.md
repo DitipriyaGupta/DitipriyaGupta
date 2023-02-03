@@ -4,7 +4,7 @@
 <h3 align="center">Currently in 4th year of my B.Tech in Computer Science & Engineering from University of Engineering & Management, Kolkata.</h3>
 
 
- -📫 How to reach me **mail.ditipriyagupta@gmail.com**
+ -📫 How to reach me **mail.ditipriyagupta@gmail.acom**
    
  -💬 Ask me about **MERN & JavaScript**
  
