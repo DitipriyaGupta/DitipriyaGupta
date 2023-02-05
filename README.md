@@ -7,6 +7,9 @@
  - 📫 How to reach me **mail.ditipriyagupta@gmail.com**
    
  - 💬 Ask me about **MERN & JavaScript**
+
+- 📄 Know about my experiences [https://novoresume.com/editor/resume/f3becef0-6c82-11ed-8dc6-1de01ec5bd27](https://novoresume.com/editor/resume/f3becef0-6c82-11ed-8dc6-1de01ec5bd27)
+
  
  - 🌱 I’m currently learning **Data Structures & Algorithms** 
  
